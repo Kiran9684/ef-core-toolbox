@@ -27,9 +27,9 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | # | Topic | Status |
 |---|---|:---:|
 | 03 | [Basic SaveChanges](docs/03-basic-savechanges.md) | ✅ |
-| 04 | Saving Related Data |(docs/04-saving-related-data.md)|
-| 05 | Cascade Delete | ⬜ |
-| 06 | ExecuteUpdate & ExecuteDelete | ⬜ |
+| 04 | [Saving Related Data](docs/04-saving-related-data.md)|✅ |
+| 05 | [Cascade Delete](docs/05-cascade-delete.md) | ✅ |
+| 06 | [ExecuteUpdate & ExecuteDelete](docs/06-executeupdate-executedelete.md) | ✅ |
 | 07 | Transactions | ⬜ |
 | 08 | Disconnected Entities | ⬜ |
 
