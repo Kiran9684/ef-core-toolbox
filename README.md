@@ -33,6 +33,14 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 07 | [Transactions](docs/07-using-transactions.md) | ✅ |
 | 08 | [Disconnected Entities](docs/08-disconnected-entities.md) | ✅ |
 
+### 🏗️ Creating Model
+
+| # | Topic | Status |
+|---|---|:---:|
+| 09 | [Creating Model — Overview](docs/09-creating-model-overview.md) | ✅ |
+| 10 | [Entity Types](docs/10-entity-types.md) | ✅ |
+| 11 | Coming Soon | ⬜ |
+
 ---
 
 ## 🎯 Purpose
