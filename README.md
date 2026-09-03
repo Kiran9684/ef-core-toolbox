@@ -39,7 +39,7 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 |---|---|:---:|
 | 09 | [Creating Model — Overview](docs/09-creating-model-overview.md) | ✅ |
 | 10 | [Entity Types](docs/10-entity-types.md) | ✅ |
-| 11 | Coming Soon | ⬜ |
+| 11 | [Entity Properties](docs/11-entity-properties.md) | ✅ |
 
 ---
 
