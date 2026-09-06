@@ -41,6 +41,7 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 10 | [Entity Types](docs/10-entity-types.md) | ✅ |
 | 11 | [Entity Properties](docs/11-entity-properties.md) | ✅ |
 | 12 | [Keys](docs/12-keys.md) | ✅ |
+| 13 | [Keyless Entity Types](docs/13-keyless-entity-types.md) | ✅ |
 ---
 
 ## 🎯 Purpose
@@ -60,54 +61,3 @@ Each topic focuses on:
 > The goal is not to replace the official EF Core documentation, but to provide a **compact revision layer** for quickly recalling EF Core concepts.
 
 ---
-
-## 🗂️ Repository Structure
-
-```text
-EF-Core-Toolbox/
-│
-├── README.md
-│
-└── docs/
-    ├── 01-introduction.md
-    ├── 02-dbcontext.md
-    └── 03-basic-savechanges.md
-```
-
----
-
-## 🚀 Progress
-
-```text
-EF Core Toolbox
-│
-├── 01. Introduction
-│   └── ✅ Completed
-│
-├── 02. DbContext Lifetime, Configuration & Initialization
-│   └── ✅ Completed
-│
-└── 03. Basic SaveChanges
-    └── ✅ Completed
-```
-
----
-
-## 📖 Topics Covered
-
-### 🏗️ EF Core Fundamentals
-
-| # | Topic |
-|---|---|
-| 01 | Introduction |
-| 02 | DbContext Lifetime, Configuration & Initialization |
-
-### 💾 Saving Data
-
-| # | Topic |
-|---|---|
-| 03 | Basic SaveChanges |
-
----
-
-> 🚀 This toolbox will continue to grow as more EF Core concepts are covered.
