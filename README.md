@@ -43,6 +43,10 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 12 | [Keys](docs/12-keys.md) | ✅ |
 | 13 | [Keyless Entity Types](docs/13-keyless-entity-types.md) | ✅ |
 | 14 | [Generated Values](docs/14-generated-values.md) | ✅ |
+| 15 | [Shadow and Indexer Properties](docs/15-shadow-indexer-properties.md) | ✅ |
+| 16 | [Indexes and Constraints](docs/16-indexes-and-constraints.md) | ✅ |
+| 17 | [Relationships — Overview](docs/17-relationships-overview.md) | ✅ |
+| 18 | [One-to-Many Relationships](docs/18-one-to-many-relationships.md) | ✅ |
 ---
 
 ## 🎯 Purpose
