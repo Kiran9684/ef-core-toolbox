@@ -42,6 +42,7 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 11 | [Entity Properties](docs/11-entity-properties.md) | ✅ |
 | 12 | [Keys](docs/12-keys.md) | ✅ |
 | 13 | [Keyless Entity Types](docs/13-keyless-entity-types.md) | ✅ |
+| 14 | [Generated Values](docs/14-generated-values.md) | ✅ |
 ---
 
 ## 🎯 Purpose
