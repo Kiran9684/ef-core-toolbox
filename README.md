@@ -47,6 +47,8 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 16 | [Indexes and Constraints](docs/16-indexes-and-constraints.md) | ✅ |
 | 17 | [Relationships — Overview](docs/17-relationships-overview.md) | ✅ |
 | 18 | [One-to-Many Relationships](docs/18-one-to-many-relationships.md) | ✅ |
+| 19 | [One-to-One Relationships](docs/19-one-to-one-relationships.md) | ✅ |
+| 20 | [Many-to-Many Relationships](docs/20-many-to-many-relationships.md) | ✅ |
 ---
 
 ## 🎯 Purpose
