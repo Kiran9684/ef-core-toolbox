@@ -1,10 +1,3 @@
-````markdown
-# 🧰 EF Core Interview Toolbox — Topic 14: Shadow and Indexer Properties
-
-> **Category:** 🏗️ Creating Model  
-> **File Name:** `14-shadow-indexer-properties.md`
-
----
 
 # 🌫️ Shadow Properties
 
