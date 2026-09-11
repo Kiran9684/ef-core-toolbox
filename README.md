@@ -49,6 +49,8 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 18 | [One-to-Many Relationships](docs/18-one-to-many-relationships.md) | ✅ |
 | 19 | [One-to-One Relationships](docs/19-one-to-one-relationships.md) | ✅ |
 | 20 | [Many-to-Many Relationships](docs/20-many-to-many-relationships.md) | ✅ |
+| 21 | [Foreign and Principal Keys in Relationships](docs/21-foreign-and-principal-keys.md) | ✅ |
+| 22 | [Relationship Navigations](docs/22-relationship-navigations.md) | ✅ |
 ---
 
 ## 🎯 Purpose
