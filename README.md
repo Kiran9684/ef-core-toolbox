@@ -51,6 +51,8 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 20 | [Many-to-Many Relationships](docs/20-many-to-many-relationships.md) | ✅ |
 | 21 | [Foreign and Principal Keys in Relationships](docs/21-foreign-and-principal-keys.md) | ✅ |
 | 22 | [Relationship Navigations](docs/22-relationship-navigations.md) | ✅ |
+| 23 | [Relationship Discovery Conventions](docs/23-relationship-discovery-conventions.md) | ✅ |
+| 24 | [Mapping Attributes for Relationships](docs/24-mapping-attributes-relationships.md) | ✅ |
 ---
 
 ## 🎯 Purpose
