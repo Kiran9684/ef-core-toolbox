@@ -60,6 +60,7 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 |---|---|:---:|
 | 25 | [Managing Database Schemas](docs/25-managing-database-schemas.md) | ✅ |
 | 26 | [Applying Migrations](docs/26-applying-migrations.md) | ✅ |
+| 27 | [Script Generation](docs/27-script-generation.md) | ✅ |
 
 ---
 ---
