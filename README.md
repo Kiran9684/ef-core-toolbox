@@ -53,6 +53,15 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 22 | [Relationship Navigations](docs/22-relationship-navigations.md) | ✅ |
 | 23 | [Relationship Discovery Conventions](docs/23-relationship-discovery-conventions.md) | ✅ |
 | 24 | [Mapping Attributes for Relationships](docs/24-mapping-attributes-relationships.md) | ✅ |
+
+## 🗂️ Managing Database Schemas
+
+| # | Topic | Status |
+|---|---|:---:|
+| 25 | [Managing Database Schemas](docs/25-managing-database-schemas.md) | ✅ |
+| 26 | [Applying Migrations](docs/26-applying-migrations.md) | ✅ |
+
+---
 ---
 
 ## 🎯 Purpose
