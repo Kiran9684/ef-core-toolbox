@@ -53,15 +53,16 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | 22 | [Relationship Navigations](docs/22-relationship-navigations.md) | ✅ |
 | 23 | [Relationship Discovery Conventions](docs/23-relationship-discovery-conventions.md) | ✅ |
 | 24 | [Mapping Attributes for Relationships](docs/24-mapping-attributes-relationships.md) | ✅ |
+| 25 | [Glossary of Relationship Terms](docs/24.1-relationship-glossary.md) | ✅ |
 
 ## 🗂️ Managing Database Schemas
 
 | # | Topic | Status |
 |---|---|:---:|
-| 25 | [Managing Database Schemas](docs/25-managing-database-schemas.md) | ✅ |
-| 26 | [Applying Migrations](docs/26-applying-migrations.md) | ✅ |
-| 27 | [Script Generation](docs/27-script-generation.md) | ✅ |
-| 28 | [Migrations in Team Environments](docs/28-migrations-team-environments.md) | ✅ |
+| 26 | [Managing Database Schemas](docs/25-managing-database-schemas.md) | ✅ |
+| 27 | [Applying Migrations](docs/26-applying-migrations.md) | ✅ |
+| 28 | [Script Generation](docs/27-script-generation.md) | ✅ |
+| 29 | [Migrations in Team Environments](docs/28-migrations-team-environments.md) | ✅ |
 
 ---
 ---
