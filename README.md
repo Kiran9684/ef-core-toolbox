@@ -60,9 +60,10 @@ A compact, continuously evolving **EF Core revision toolbox** covering core conc
 | # | Topic | Status |
 |---|---|:---:|
 | 26 | [Managing Database Schemas](docs/25-managing-database-schemas.md) | ✅ |
-| 27 | [Applying Migrations](docs/26-applying-migrations.md) | ✅ |
-| 28 | [Script Generation](docs/27-script-generation.md) | ✅ |
-| 29 | [Migrations in Team Environments](docs/28-migrations-team-environments.md) | ✅ |
+| 27 | [Managing Migrations](docs/26.1-managing-migrations.md) | ✅ |
+| 28 | [Applying Migrations](docs/26-applying-migrations.md) | ✅ |
+| 29 | [Script Generation](docs/27-script-generation.md) | ✅ |
+| 30 | [Migrations in Team Environments](docs/28-migrations-team-environments.md) | ✅ |
 
 ---
 ---
